@@ -1,18 +1,18 @@
  and year: ,والسنة:
-""" does not exists",""" لا يوجد"
-%  Delivered,ألقيت٪
-% Amount Billed,المبلغ٪ صفت
-% Billed,وصفت٪
+""" does not exists",""" غير موجود"
+%  Delivered,تم التسليم٪
+% Amount Billed, % من المبلغ تم فوترتها
+% Billed, تم فوترتة٪
 % Completed,٪ مكتمل
-% Delivered,سلمت ٪
+% Delivered,تم التسليم ٪
 % Installed,٪ المثبتة
-% Received,حصل على٪
-% of materials billed against this Purchase Order.,٪ من المواد توصف ضد هذا أمر الشراء.
-% of materials billed against this Sales Order,٪ من المواد توصف ضد هذا أمر المبيعات
-% of materials delivered against this Delivery Note,٪ من المواد الموردة ضد هذا التسليم ملاحظة
-% of materials delivered against this Sales Order,٪ من المواد الموردة ضد هذا أمر المبيعات
-% of materials ordered against this Material Request,٪ من المواد المطلوبة ضد هذه المادة طلب
-% of materials received against this Purchase Order,تلقى٪ من المواد ضد هذا أمر الشراء
+% Received, % تم استلامها
+% of materials billed against this Purchase Order.,٪ من المواد الموجوده بامر الشراء تمت فوترتها.
+% of materials billed against this Sales Order,٪ من المواد الموجوده بامر البيع تمت فوترتها
+% of materials delivered against this Delivery Note,٪من المواد تم تسليمها 
+% of materials delivered against this Sales Order,٪ من المواد تم تسليمها
+% of materials ordered against this Material Request,٪ من المواد تم طلبها
+% of materials received against this Purchase Order,% من المواد المطلوبة تم استلامه
 'Actual Start Date' can not be greater than 'Actual End Date',""" تاريخ البدء الفعلي "" لا يمكن أن يكون أكبر من "" تاريخ الانتهاء الفعلي """
 'Based On' and 'Group By' can not be same,""" بناء على "" و "" المجموعة بواسطة ' لا يمكن أن يكون نفس"
 'Days Since Last Order' must be greater than or equal to zero,"""أيام منذ بالدفع آخر "" يجب أن تكون أكبر من أو تساوي الصفر"
@@ -48,7 +48,7 @@ Acceptance Criteria,معايير القبول
 Accepted,مقبول
 Accepted + Rejected Qty must be equal to Received quantity for Item {0},يجب أن يكون مقبول مرفوض + الكمية مساوية ل كمية تلقى القطعة ل {0}
 Accepted Quantity,كمية مقبولة
-Accepted Warehouse,قبلت مستودع
+Accepted Warehouse,مخزن مقبول
 Account,حساب
 Account Balance,رصيد حسابك
 Account Created: {0},أنشاء حساب : {0}
